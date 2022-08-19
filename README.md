@@ -1,3 +1,6 @@
+# ** ❌ DO NOT USE ❌ **
+***May cause account suspension due to violation of ToS!***
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
